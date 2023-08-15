@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - a program prints words without putting a new line
- * Reminder: 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
